@@ -1,0 +1,14 @@
+E:\BackEnd\Tuan 1\Tuan 1\obj\Debug\net8.0\Tuan1.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEnd\Tuan 1\Tuan 1\obj\Debug\net8.0\Tuan1.AssemblyInfoInputs.cache
+E:\BackEnd\Tuan 1\Tuan 1\obj\Debug\net8.0\Tuan1.AssemblyInfo.cs
+E:\BackEnd\Tuan 1\Tuan 1\obj\Debug\net8.0\Tuan1.csproj.CoreCompileInputs.cache
+E:\BackEnd\Tuan 1\Tuan 1\bin\Debug\net8.0\Tuan1.exe
+E:\BackEnd\Tuan 1\Tuan 1\bin\Debug\net8.0\Tuan1.deps.json
+E:\BackEnd\Tuan 1\Tuan 1\bin\Debug\net8.0\Tuan1.runtimeconfig.json
+E:\BackEnd\Tuan 1\Tuan 1\bin\Debug\net8.0\Tuan1.dll
+E:\BackEnd\Tuan 1\Tuan 1\bin\Debug\net8.0\Tuan1.pdb
+E:\BackEnd\Tuan 1\Tuan 1\obj\Debug\net8.0\Tuan1.dll
+E:\BackEnd\Tuan 1\Tuan 1\obj\Debug\net8.0\refint\Tuan1.dll
+E:\BackEnd\Tuan 1\Tuan 1\obj\Debug\net8.0\Tuan1.pdb
+E:\BackEnd\Tuan 1\Tuan 1\obj\Debug\net8.0\Tuan1.genruntimeconfig.cache
+E:\BackEnd\Tuan 1\Tuan 1\obj\Debug\net8.0\ref\Tuan1.dll
